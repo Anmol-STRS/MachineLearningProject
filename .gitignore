@@ -1,0 +1,23 @@
+.venv/
+env/
+venv/
+*.py[cod]
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.DS_Store
+Thumbs.db
+
+# build artifacts
+build/
+dist/
+*.egg-info/
+
+# notebooks
+.ipynb_checkpoints/
+
+# IDE/editor
+.vscode/
+.idea/
